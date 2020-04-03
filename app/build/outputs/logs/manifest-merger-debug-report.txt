@@ -1,0 +1,668 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9b402ea171e7249bda7bc93d0e40d0f8/jetified-lib-1.0.2/AndroidManifest.xml:2:1-19:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c65a6d3221a418caa3ebbdd8c82b9d5a/jetified-android-image-cropper-2.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a08b64a99db3029475fd8e8a7d361821/navigation-ui-2.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ef47903584e132f95c08c23292cec68e/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha03] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8de386bb040a4ad743bbb00f73f424ea/appcompat-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/5b5edb8fafd0558c496e6dcc637618b1/jetified-core-ktx-1.1.0-alpha05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/65c09879886c04dd03c37ecd65c89ae1/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/87bc1310f335f3ababf80f9dfdd23cc9/jetified-firebase-analytics-17.2.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b589181168a0fd2e9209a3207fce59a4/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:15:1-39:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [io.paperdb:paperdb:2.6] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a90e18f93776e6891b72b78ff3dcc104/jetified-paperdb-2.6/AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b83093d7160cac6f58228c6198882b43/jetified-circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/80b69e0281975f7e9accaab0f9198800/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0f14a246b624d2c68e1d1773da16da0d/navigation-fragment-2.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0a6c212f73963fa6835af45599dfab1e/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha03] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/497269aebfc22abbb9155244d1813849/jetified-appcompat-resources-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/4339a1db68a86092531ac27a7672e57d/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/21e18b66e86534a7ba2f091590864e61/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f783bc71a7f6b8ff736b6c5aa7735a41/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/15dedc436db97eba9c51ba371d2b8714/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/709dec39ab4d41e4eaebf9d7dbe74e41/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/eba683f4bbe7b70c920ae60bf53ca549/jetified-play-services-measurement-sdk-17.2.3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/7e11ac1883f9e27592a377296b09eec8/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b42d6d39f9d0ddd1d0eedd8d664bd481/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ff919aa2adc3061f3daede0df598b5f3/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/48f8e447dd9a92ac152aa8ba0bea6204/jetified-play-services-measurement-base-17.2.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/38a1471f9b60a43b2bc484b6cedb7a67/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a481f1d35c4d4a933182b444857cab5a/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/530cf519bd2690ba125c7365bd4345e5/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.media:media:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3edfbc7b78ed5b8b0b6ccffd1386d8d8/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dd6e81403769a15935cf91e15427e1b5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/4dd15ea232cb6a4f6193fa6c7544e50e/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f914a5838e6fd62727b64f249a2b2568/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ec2ff2d2f35f5ce21d8f3a2cd566b74c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b2e94776b37df79ca1eaded445ac0df8/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9f9d1f3c50ce4e1f871ff56b75c8e58c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/faf6750b30e085dada05d5bf2b630089/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/33987a6c2abb97d3a5dc8363aa39ad35/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/74a949c57b303ec0823b0ea9d5439f22/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/19851895a64cdce23bed4e3d01b0894b/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c5f28f06b39932d0c4821fb41c4a7648/navigation-runtime-2.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a8823fe4014d2f7cbc0ecf236c42b1ac/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b61634f9ef7c0f93aa576929286fe831/navigation-common-2.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c89867b053f2cea24a556560fd25c619/core-1.3.0-alpha02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fd87986aa651fe7c3128c0b95293c012/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/28950d5ca212ff0c86ed1244329056eb/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/e7b316e008973942910afd1c84dc02d7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/50ca83c15c80cb40ff8b38fe9fd81eff/jetified-firebase-ui-common-3.2.2/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/448ad5636d84a77758d1f5390643618a/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9e025505c94c04007a8190f74982d1e9/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/69ad70deb7fc3872e7a51cd7de424a87/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/6ab1828441a6b45d05a01b9241ca901a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/6dd4de7fc3225e55d58846adf9ecb0a7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c7e64f6181ef9b2b223b47bd6635a3b3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/2daa2efc1bcfa52ea60cc23db0d65678/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/26a37137e9272db894c7dbf08d27e517/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ffd0aa10f2a787335b333d5b793ff3d9/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a169fceb4d633b6f5331b08236945ee0/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fe98e132206751e4b57411d86a5c799b/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dcf4af4213d59bd5fe489359c2b51b96/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d5eaf420089c5236e66c37a4f4a5e79b/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/387e682d4ebeb89f42b397047ae9db10/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d619de1e9e20a12a3fda730585e012a7/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:5-49:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9b402ea171e7249bda7bc93d0e40d0f8/jetified-lib-1.0.2/AndroidManifest.xml:11:5-17:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9b402ea171e7249bda7bc93d0e40d0f8/jetified-lib-1.0.2/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.material:material:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ef47903584e132f95c08c23292cec68e/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ef47903584e132f95c08c23292cec68e/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/65c09879886c04dd03c37ecd65c89ae1/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/65c09879886c04dd03c37ecd65c89ae1/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/87bc1310f335f3ababf80f9dfdd23cc9/jetified-firebase-analytics-17.2.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/87bc1310f335f3ababf80f9dfdd23cc9/jetified-firebase-analytics-17.2.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [io.paperdb:paperdb:2.6] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a90e18f93776e6891b72b78ff3dcc104/jetified-paperdb-2.6/AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.6] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a90e18f93776e6891b72b78ff3dcc104/jetified-paperdb-2.6/AndroidManifest.xml:12:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b83093d7160cac6f58228c6198882b43/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b83093d7160cac6f58228c6198882b43/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0a6c212f73963fa6835af45599dfab1e/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0a6c212f73963fa6835af45599dfab1e/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/eba683f4bbe7b70c920ae60bf53ca549/jetified-play-services-measurement-sdk-17.2.3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/eba683f4bbe7b70c920ae60bf53ca549/jetified-play-services-measurement-sdk-17.2.3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/7e11ac1883f9e27592a377296b09eec8/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/7e11ac1883f9e27592a377296b09eec8/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b42d6d39f9d0ddd1d0eedd8d664bd481/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b42d6d39f9d0ddd1d0eedd8d664bd481/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ff919aa2adc3061f3daede0df598b5f3/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ff919aa2adc3061f3daede0df598b5f3/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/48f8e447dd9a92ac152aa8ba0bea6204/jetified-play-services-measurement-base-17.2.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/48f8e447dd9a92ac152aa8ba0bea6204/jetified-play-services-measurement-base-17.2.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/38a1471f9b60a43b2bc484b6cedb7a67/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/38a1471f9b60a43b2bc484b6cedb7a67/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a481f1d35c4d4a933182b444857cab5a/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a481f1d35c4d4a933182b444857cab5a/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/530cf519bd2690ba125c7365bd4345e5/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/530cf519bd2690ba125c7365bd4345e5/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c89867b053f2cea24a556560fd25c619/core-1.3.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c89867b053f2cea24a556560fd25c619/core-1.3.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/69ad70deb7fc3872e7a51cd7de424a87/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/69ad70deb7fc3872e7a51cd7de424a87/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-alpha02] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c89867b053f2cea24a556560fd25c619/core-1.3.0-alpha02/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.myapplication.CheckNewProductsActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:9-71
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:19-59
+activity#com.example.myapplication.AdminHomeActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:9-55
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:19-52
+activity#Sellers.SellersHomeActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:17:9-19:67
+	android:label
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:19:13-64
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:13-55
+activity#Sellers.SellerLoginActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:9-64
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:19-61
+activity#Sellers.SellerRegistrationActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:9-71
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:19-68
+activity#com.example.myapplication.ResetPasswordActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:22:19-56
+activity#com.example.myapplication.AdminMaintainProductsActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:23:9-67
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:23:19-64
+activity#com.example.myapplication.SearchActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:24:19-49
+activity#com.example.myapplication.AdminUserProductsActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:25:9-63
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:25:19-60
+activity#com.example.myapplication.AdminNewOrdersActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:26:19-57
+activity#com.example.myapplication.ConfirmFinalOrderActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:27:19-60
+activity#com.example.myapplication.CartActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:28:19-47
+activity#com.example.myapplication.ProductDetailsActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:29:9-60
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:29:19-57
+activity#com.example.myapplication.SettingsActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:30:19-51
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:31:9-33:59
+	android:theme
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:32:13-76
+activity#com.example.myapplication.HomeActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:34:9-37:59
+	android:label
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:36:13-56
+	android:theme
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:35:13-41
+activity#com.example.myapplication.SellerProductsCategoryActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:38:9-68
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:38:19-65
+activity#Sellers.SellerAddNewProductActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:39:9-72
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:39:19-69
+activity#com.example.myapplication.RegisterActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:40:9-54
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:40:19-51
+activity#com.example.myapplication.loginActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:41:9-51
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:41:19-48
+activity#com.example.myapplication.MainActivity
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:42:9-48:20
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:42:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9b402ea171e7249bda7bc93d0e40d0f8/jetified-lib-1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9b402ea171e7249bda7bc93d0e40d0f8/jetified-lib-1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c65a6d3221a418caa3ebbdd8c82b9d5a/jetified-android-image-cropper-2.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c65a6d3221a418caa3ebbdd8c82b9d5a/jetified-android-image-cropper-2.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-ui:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a08b64a99db3029475fd8e8a7d361821/navigation-ui-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a08b64a99db3029475fd8e8a7d361821/navigation-ui-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ef47903584e132f95c08c23292cec68e/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ef47903584e132f95c08c23292cec68e/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha03] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8de386bb040a4ad743bbb00f73f424ea/appcompat-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0-alpha03] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8de386bb040a4ad743bbb00f73f424ea/appcompat-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/5b5edb8fafd0558c496e6dcc637618b1/jetified-core-ktx-1.1.0-alpha05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/5b5edb8fafd0558c496e6dcc637618b1/jetified-core-ktx-1.1.0-alpha05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/65c09879886c04dd03c37ecd65c89ae1/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/65c09879886c04dd03c37ecd65c89ae1/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/87bc1310f335f3ababf80f9dfdd23cc9/jetified-firebase-analytics-17.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/87bc1310f335f3ababf80f9dfdd23cc9/jetified-firebase-analytics-17.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b589181168a0fd2e9209a3207fce59a4/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b589181168a0fd2e9209a3207fce59a4/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [io.paperdb:paperdb:2.6] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a90e18f93776e6891b72b78ff3dcc104/jetified-paperdb-2.6/AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.6] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a90e18f93776e6891b72b78ff3dcc104/jetified-paperdb-2.6/AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b83093d7160cac6f58228c6198882b43/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b83093d7160cac6f58228c6198882b43/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/80b69e0281975f7e9accaab0f9198800/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/80b69e0281975f7e9accaab0f9198800/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0f14a246b624d2c68e1d1773da16da0d/navigation-fragment-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0f14a246b624d2c68e1d1773da16da0d/navigation-fragment-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0a6c212f73963fa6835af45599dfab1e/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0a6c212f73963fa6835af45599dfab1e/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha03] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/497269aebfc22abbb9155244d1813849/jetified-appcompat-resources-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-alpha03] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/497269aebfc22abbb9155244d1813849/jetified-appcompat-resources-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/4339a1db68a86092531ac27a7672e57d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/4339a1db68a86092531ac27a7672e57d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/21e18b66e86534a7ba2f091590864e61/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/21e18b66e86534a7ba2f091590864e61/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f783bc71a7f6b8ff736b6c5aa7735a41/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f783bc71a7f6b8ff736b6c5aa7735a41/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/15dedc436db97eba9c51ba371d2b8714/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/15dedc436db97eba9c51ba371d2b8714/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/709dec39ab4d41e4eaebf9d7dbe74e41/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/709dec39ab4d41e4eaebf9d7dbe74e41/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/eba683f4bbe7b70c920ae60bf53ca549/jetified-play-services-measurement-sdk-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/eba683f4bbe7b70c920ae60bf53ca549/jetified-play-services-measurement-sdk-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/7e11ac1883f9e27592a377296b09eec8/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/7e11ac1883f9e27592a377296b09eec8/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b42d6d39f9d0ddd1d0eedd8d664bd481/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b42d6d39f9d0ddd1d0eedd8d664bd481/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ff919aa2adc3061f3daede0df598b5f3/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ff919aa2adc3061f3daede0df598b5f3/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/48f8e447dd9a92ac152aa8ba0bea6204/jetified-play-services-measurement-base-17.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/48f8e447dd9a92ac152aa8ba0bea6204/jetified-play-services-measurement-base-17.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/38a1471f9b60a43b2bc484b6cedb7a67/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/38a1471f9b60a43b2bc484b6cedb7a67/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a481f1d35c4d4a933182b444857cab5a/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a481f1d35c4d4a933182b444857cab5a/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/530cf519bd2690ba125c7365bd4345e5/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/530cf519bd2690ba125c7365bd4345e5/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3edfbc7b78ed5b8b0b6ccffd1386d8d8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3edfbc7b78ed5b8b0b6ccffd1386d8d8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dd6e81403769a15935cf91e15427e1b5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dd6e81403769a15935cf91e15427e1b5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/4dd15ea232cb6a4f6193fa6c7544e50e/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/4dd15ea232cb6a4f6193fa6c7544e50e/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f914a5838e6fd62727b64f249a2b2568/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f914a5838e6fd62727b64f249a2b2568/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ec2ff2d2f35f5ce21d8f3a2cd566b74c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ec2ff2d2f35f5ce21d8f3a2cd566b74c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b2e94776b37df79ca1eaded445ac0df8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b2e94776b37df79ca1eaded445ac0df8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9f9d1f3c50ce4e1f871ff56b75c8e58c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9f9d1f3c50ce4e1f871ff56b75c8e58c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/faf6750b30e085dada05d5bf2b630089/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/faf6750b30e085dada05d5bf2b630089/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/33987a6c2abb97d3a5dc8363aa39ad35/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/33987a6c2abb97d3a5dc8363aa39ad35/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/74a949c57b303ec0823b0ea9d5439f22/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/74a949c57b303ec0823b0ea9d5439f22/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/19851895a64cdce23bed4e3d01b0894b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/19851895a64cdce23bed4e3d01b0894b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c5f28f06b39932d0c4821fb41c4a7648/navigation-runtime-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c5f28f06b39932d0c4821fb41c4a7648/navigation-runtime-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a8823fe4014d2f7cbc0ecf236c42b1ac/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a8823fe4014d2f7cbc0ecf236c42b1ac/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b61634f9ef7c0f93aa576929286fe831/navigation-common-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b61634f9ef7c0f93aa576929286fe831/navigation-common-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c89867b053f2cea24a556560fd25c619/core-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c89867b053f2cea24a556560fd25c619/core-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fd87986aa651fe7c3128c0b95293c012/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fd87986aa651fe7c3128c0b95293c012/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/28950d5ca212ff0c86ed1244329056eb/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/28950d5ca212ff0c86ed1244329056eb/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/e7b316e008973942910afd1c84dc02d7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/e7b316e008973942910afd1c84dc02d7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/50ca83c15c80cb40ff8b38fe9fd81eff/jetified-firebase-ui-common-3.2.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/50ca83c15c80cb40ff8b38fe9fd81eff/jetified-firebase-ui-common-3.2.2/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/448ad5636d84a77758d1f5390643618a/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/448ad5636d84a77758d1f5390643618a/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9e025505c94c04007a8190f74982d1e9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/9e025505c94c04007a8190f74982d1e9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/69ad70deb7fc3872e7a51cd7de424a87/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/69ad70deb7fc3872e7a51cd7de424a87/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/6ab1828441a6b45d05a01b9241ca901a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/6ab1828441a6b45d05a01b9241ca901a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/6dd4de7fc3225e55d58846adf9ecb0a7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/6dd4de7fc3225e55d58846adf9ecb0a7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c7e64f6181ef9b2b223b47bd6635a3b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c7e64f6181ef9b2b223b47bd6635a3b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/2daa2efc1bcfa52ea60cc23db0d65678/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/2daa2efc1bcfa52ea60cc23db0d65678/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/26a37137e9272db894c7dbf08d27e517/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/26a37137e9272db894c7dbf08d27e517/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ffd0aa10f2a787335b333d5b793ff3d9/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/ffd0aa10f2a787335b333d5b793ff3d9/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a169fceb4d633b6f5331b08236945ee0/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/a169fceb4d633b6f5331b08236945ee0/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fe98e132206751e4b57411d86a5c799b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fe98e132206751e4b57411d86a5c799b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dcf4af4213d59bd5fe489359c2b51b96/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dcf4af4213d59bd5fe489359c2b51b96/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d5eaf420089c5236e66c37a4f4a5e79b/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d5eaf420089c5236e66c37a4f4a5e79b/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/387e682d4ebeb89f42b397047ae9db10/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/387e682d4ebeb89f42b397047ae9db10/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d619de1e9e20a12a3fda730585e012a7/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d619de1e9e20a12a3fda730585e012a7/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b589181168a0fd2e9209a3207fce59a4/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b589181168a0fd2e9209a3207fce59a4/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:33:17-109
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:34:17-107
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/602317aaa2f1dddb3774e7abab6f1308/jetified-play-services-measurement-sdk-api-17.2.3/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/622c49637879e9affeeb97746ec47fe6/jetified-play-services-measurement-impl-17.2.3/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

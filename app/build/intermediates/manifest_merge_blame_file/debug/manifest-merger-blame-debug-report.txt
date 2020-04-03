@@ -1,0 +1,305 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-80
+11-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:5-81
+12-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+13-->[com.firebaseui:firebase-ui-database:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b589181168a0fd2e9209a3207fce59a4/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:11:5-67
+13-->[com.firebaseui:firebase-ui-database:3.2.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/b589181168a0fd2e9209a3207fce59a4/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:11:22-64
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
+15-->[com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:25:5-68
+16-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:25:22-65
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+17-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:26:22-107
+18    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+18-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+18-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+19
+20    <application
+20-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:5-49:19
+21        android:allowBackup="true"
+21-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.3.0-alpha02] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/c89867b053f2cea24a556560fd25c619/core-1.3.0-alpha02/AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:10:9-43
+25        android:label="@string/app_name"
+25-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-54
+27        android:supportsRtl="true"
+27-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme" >
+29-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:9-40
+30        <activity android:name="com.example.myapplication.CheckNewProductsActivity" />
+30-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:9-71
+30-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:19-59
+31        <activity android:name="com.example.myapplication.AdminHomeActivity" />
+31-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:9-55
+31-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:19-52
+32        <activity
+32-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:17:9-19:67
+33            android:name="Sellers.SellersHomeActivity"
+33-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:13-55
+34            android:label="@string/title_activity_sellers_home" />
+34-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:19:13-64
+35        <activity android:name="Sellers.SellerLoginActivity" />
+35-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:9-64
+35-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:19-61
+36        <activity android:name="Sellers.SellerRegistrationActivity" />
+36-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:9-71
+36-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:19-68
+37        <activity android:name="com.example.myapplication.ResetPasswordActivity" />
+37-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:22:9-59
+37-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:22:19-56
+38        <activity android:name="com.example.myapplication.AdminMaintainProductsActivity" />
+38-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:23:9-67
+38-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:23:19-64
+39        <activity android:name="com.example.myapplication.SearchActivity" />
+39-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:24:9-52
+39-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:24:19-49
+40        <activity android:name="com.example.myapplication.AdminUserProductsActivity" />
+40-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:25:9-63
+40-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:25:19-60
+41        <activity android:name="com.example.myapplication.AdminNewOrdersActivity" />
+41-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:26:9-60
+41-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:26:19-57
+42        <activity android:name="com.example.myapplication.ConfirmFinalOrderActivity" />
+42-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:27:9-63
+42-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:27:19-60
+43        <activity android:name="com.example.myapplication.CartActivity" />
+43-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:28:9-50
+43-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:28:19-47
+44        <activity android:name="com.example.myapplication.ProductDetailsActivity" />
+44-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:29:9-60
+44-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:29:19-57
+45        <activity android:name="com.example.myapplication.SettingsActivity" />
+45-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:30:9-54
+45-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:30:19-51
+46        <activity
+46-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:31:9-33:59
+47            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+47-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:32:13-76
+48            android:theme="@style/Base.Theme.AppCompat" />
+48-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:33:13-56
+49        <activity
+49-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:34:9-37:59
+50            android:name="com.example.myapplication.HomeActivity"
+50-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:35:13-41
+51            android:label="@string/title_activity_home"
+51-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:36:13-56
+52            android:theme="@style/AppTheme.NoActionBar" />
+52-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:37:13-56
+53        <activity android:name="com.example.myapplication.SellerProductsCategoryActivity" />
+53-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:38:9-68
+53-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:38:19-65
+54        <activity android:name="Sellers.SellerAddNewProductActivity" />
+54-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:39:9-72
+54-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:39:19-69
+55        <activity android:name="com.example.myapplication.RegisterActivity" />
+55-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:40:9-54
+55-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:40:19-51
+56        <activity android:name="com.example.myapplication.loginActivity" />
+56-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:41:9-51
+56-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:41:19-48
+57        <activity android:name="com.example.myapplication.MainActivity" >
+57-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:42:9-48:20
+57-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:42:19-47
+58            <intent-filter>
+58-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:43:13-47:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:44:17-69
+59-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:44:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:46:17-77
+61-->/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:46:27-74
+62            </intent-filter>
+63        </activity>
+64
+65        <service
+65-->[com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
+66            android:name="com.google.firebase.components.ComponentDiscoveryService"
+66-->[com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:30:13-84
+67            android:directBootAware="true"
+67-->[com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+68            android:exported="false" >
+68-->[com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:31:13-37
+69            <meta-data
+69-->[com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:32:13-34:85
+70                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+70-->[com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:33:17-109
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-database:19.2.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8034dc9f3f5420545158b80dfc317073/jetified-firebase-database-19.2.1/AndroidManifest.xml:34:17-82
+72            <meta-data
+72-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:36:13-38:85
+73                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+73-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:37:17-109
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:38:17-82
+75            <meta-data
+75-->[com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:33:13-35:85
+76                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+76-->[com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:34:17-107
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.firebase:firebase-storage:19.1.1] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:35:17-82
+78            <meta-data
+78-->[com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:30:13-32:85
+79                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+79-->[com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:31:17-139
+80                android:value="com.google.firebase.components.ComponentRegistrar" />
+80-->[com.google.android.gms:play-services-measurement-api:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/3838fa066decd5d47eec7bd5d4f2a46d/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:32:17-82
+81            <meta-data
+81-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+82                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+82-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+83                android:value="com.google.firebase.components.ComponentRegistrar" />
+83-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+84        </service>
+85
+86        <activity
+86-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:24:9-31:50
+87            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+87-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:25:13-85
+88            android:excludeFromRecents="true"
+88-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:26:13-46
+89            android:exported="true"
+89-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:27:13-36
+90            android:launchMode="singleTask"
+90-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:28:13-44
+91            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+91-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:29:13-102
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+92-->[com.google.firebase:firebase-auth:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:30:13-72
+93
+94        <provider
+94-->[com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+95            android:name="com.squareup.picasso.PicassoProvider"
+95-->[com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+96            android:authorities="com.example.myapplication.com.squareup.picasso"
+96-->[com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+97            android:exported="false" />
+97-->[com.squareup.picasso:picasso:2.71828] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/fffb076f5a2f6cf8385ba26644b522f4/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+98
+99        <receiver
+99-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:29:9-33:20
+100            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+100-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:30:13-85
+101            android:enabled="true"
+101-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:31:13-35
+102            android:exported="false" >
+102-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:32:13-37
+103        </receiver>
+104        <receiver
+104-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:34:9-42:20
+105            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+105-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:35:13-100
+106            android:enabled="true"
+106-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:36:13-35
+107            android:exported="true"
+107-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:37:13-36
+108            android:permission="android.permission.INSTALL_PACKAGES" >
+108-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:38:13-69
+109            <intent-filter>
+109-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:39:13-41:29
+110                <action android:name="com.android.vending.INSTALL_REFERRER" />
+110-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:40:17-79
+110-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:40:25-76
+111            </intent-filter>
+112        </receiver>
+113
+114        <service
+114-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:44:9-47:40
+115            android:name="com.google.android.gms.measurement.AppMeasurementService"
+115-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:45:13-84
+116            android:enabled="true"
+116-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:46:13-35
+117            android:exported="false" />
+117-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:47:13-37
+118        <service
+118-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:48:9-52:72
+119            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+119-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:49:13-87
+120            android:enabled="true"
+120-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:50:13-35
+121            android:exported="false"
+121-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:51:13-37
+122            android:permission="android.permission.BIND_JOB_SERVICE" />
+122-->[com.google.android.gms:play-services-measurement:17.2.3] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/493b977d77656374211b333eaefc270a/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:52:13-69
+123
+124        <receiver
+124-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+125            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+125-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+126            android:exported="true"
+126-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+127            android:permission="com.google.android.c2dm.permission.SEND" >
+127-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+128            <intent-filter>
+128-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+129                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+129-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+129-->[com.google.firebase:firebase-iid:20.0.2] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/0dbca7ef2e7fe6dd6ad20b90edf9f9bc/jetified-firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+130            </intent-filter>
+131        </receiver>
+132
+133        <provider
+133-->[com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+134            android:name="com.google.firebase.provider.FirebaseInitProvider"
+134-->[com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+135            android:authorities="com.example.myapplication.firebaseinitprovider"
+135-->[com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+136            android:exported="false"
+136-->[com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+137            android:initOrder="100" />
+137-->[com.google.firebase:firebase-common:19.3.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+138
+139        <activity
+139-->[com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+140            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+140-->[com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+141            android:exported="false"
+141-->[com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+142            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+142-->[com.google.android.gms:play-services-base:17.1.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+143
+144        <meta-data
+144-->[com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+145            android:name="com.google.android.gms.version"
+145-->[com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+146            android:value="@integer/google_play_services_version" />
+146-->[com.google.android.gms:play-services-basement:17.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+147
+148        <provider
+148-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+149            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+149-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+150            android:authorities="com.example.myapplication.lifecycle-process"
+150-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+151            android:exported="false"
+151-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+152            android:multiprocess="true" />
+152-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/vatsprateek609/.gradle/caches/transforms-2/files-2.1/399fb33a8ad56b04bb7efb3af3e16457/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+153    </application>
+154
+155</manifest>

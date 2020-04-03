@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_headphoness.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/headphoness.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_nav_header_home.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/menu_activity_home_drawer.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_search.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_register.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/register.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_select_product_image.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/select_product_image.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_seller_item_view.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/seller_item_view.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_applogo.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/applogo.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_seller.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/seller.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_purses_bags.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/purses_bags.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_fragment_gallery.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_watches.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/watches.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_check_new_products.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_check_new_products.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_fragment_slideshow.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_fragment_dashboard.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_shoess.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/shoess.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_app_bar_home.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_reset_password.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_admin_user_products.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_admin_user_products.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_tshirts.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/tshirts.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_admin_new_orders.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_admin_new_orders.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_seller_category_product.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_seller_category_product.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_seller_add_new_product.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_seller_add_new_product.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_fragment_notifications.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_cart.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/cart.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_female_dresses.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/female_dresses.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_mobiles.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/mobiles.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_seller_login.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_seller_login.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_laptops.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/laptops.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_sellerlogin.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/sellerlogin.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_welcome.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/welcome.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_orders_layout.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/orders_layout.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_hats.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/hats.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_seller_registration.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_seller_registration.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_category.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/category.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_confirm_final_order.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_confirm_final_order.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_books.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/books.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_camera.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_nav_cart.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/nav_cart.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_sellers_home.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_sellers_home.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_add.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/add.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_admin_home.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_sports.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/sports.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/menu_home.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_cart_items_layout.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/cart_items_layout.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_profile.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/profile.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_sweather.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/sweather.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_admin_maintain_products.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_admin_maintain_products.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_content_home.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_home.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_logout.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_orders.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/orders.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_cart.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_cart.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_glasses.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/glasses.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_product_items_layout.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/product_items_layout.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_input_design.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/input_design.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_buttons.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/buttons.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable_login.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/login.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_product_details.xml.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "/home/vatsprateek609/AndroidStudioProjects/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_home_black_24dp.png"
+    }
+]
