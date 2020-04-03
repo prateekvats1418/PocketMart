@@ -1,2 +1,0 @@
-# PocketMart
-Android Project
